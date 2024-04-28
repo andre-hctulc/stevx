@@ -1,0 +1,15 @@
+{
+    "name": "@andre-hctulc/stevx",
+    "version": "0.0.1",
+    "description": "An state/event driven client",
+    "main": "index.js",
+    "scripts": {
+        "build": "echo 'not implemented'"
+    },
+    "author": "André Thomas",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/react": "^18.2.75",
+        "vue": "^3.4.21"
+    }
+}
